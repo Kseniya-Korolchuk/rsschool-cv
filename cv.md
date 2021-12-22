@@ -24,8 +24,24 @@ My strengths are stress resistance, ability to work under pressure, quick reacti
 
 ---
 ## Code example:
+__*Complementary DNA*__    
+https://www.codewars.com/kata/554e4a2f232cdd87d9000038   
+```
+function DNAStrand(dna){
 
+   let complements = {
+    "A":"T",
+    "T":"A",
+    "C":"G",
+    "G":"C"
+   };
 
+   return dna.replace(/A|T|C|G/g, function(match){ 
+   return complements[match];
+   });
+}
+```
+---
 ## Education & Courses:
 * **BSAA - Belarusian State Academy of Arts,** Film & TV faculty - *Audio engeneer*
 * **IT Academy**
