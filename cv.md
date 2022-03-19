@@ -1,5 +1,5 @@
 # Kseniya Karalchuk 
-<img src="assets\img\photo.JPG" width="25%"> 
+<img src="img\photo.JPG" width="25%"> 
 
 ## Junior Frontend Developer
 ---
