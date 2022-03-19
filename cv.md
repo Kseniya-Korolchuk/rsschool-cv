@@ -16,8 +16,7 @@ My strengths are stress resistance, ability to work under pressure, quick reacti
 
 ---
 ## Skills:
-* HTML5
-* CSS3, Sass
+* HTML5, CSS3
 * JS basics
 * SQL basics
 * Git
@@ -51,9 +50,7 @@ function DNAStrand(dna){
   - Java fundamentals
   - Mobile development for android
 * **HTML Academy -** HTML & CSS
-* **RS Schools** 
-  - Course «JavaScript/Front-end. Stage 0»
-  - Course «JavaScript/Front-end. Stage 1» (in progress)
+* **RS Schools** Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ---
 ## English:
