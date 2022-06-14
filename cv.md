@@ -19,9 +19,7 @@ My strengths are stress resistance, ability to work under pressure, quick reacti
 * HTML5
 * CSS3, Sass
 * JS basics
-* SQL basics
 * Git
-* Java core
 
 ---
 ## Code example:
@@ -53,7 +51,7 @@ function DNAStrand(dna){
 * **HTML Academy -** HTML & CSS
 * **RS Schools** 
   - Course «JavaScript/Front-end. Stage 0»
-  - Course «JavaScript/Front-end. Stage 1» (in progress)
+  - Course «JavaScript/Front-end. Stage 1»
 
 ---
 ## English:
