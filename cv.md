@@ -49,6 +49,7 @@ function DNAStrand(dna){
   - Mobile development for android
 * **HTML Academy -** HTML & CSS
 * **RS Schools** Course «JavaScript/Front-end. Stage 0»
+* * **RS Schools** Course «JavaScript/Front-end. Stage 1»
 
 ---
 ## English:
