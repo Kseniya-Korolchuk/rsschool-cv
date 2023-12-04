@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="#Contacts" class="nav-link">Contacts</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#Summary" class="nav-link">Summary</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#Skills" class="nav-link">Skills</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#Code" class="nav-link">Code</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#Education" class="nav-link">Education</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#English" class="nav-link">English</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="main">
+       <div class="container main-container">
+            <section class="section section-profile" id="Profile">
+                <img src="assets/img/photo.JPG" alt="Logo" class="profile-logo">
+                <div class="profile-title">
+                    <h1 class="section-title main-title">Kseniya Karalchuk</h1>
+                    <h3 class="profile-subtitle">Junior front-end developer</h3>
+                </div>
+            </section>
+            <section class="section" id="Contacts">
+                <h2 class="section-title">Contacts</h2>
+                <ul class="section-list"> 
+                    <li class=" section-item contacts-item">
+                        Minsk, Belarus
+                    </li>
+                    <li class="section-item contacts-item">E-mail: 
+                        <a href="mailto:kkorolchuk@gmail.com" title="email" target="_blank">kkorolchuk@gmail.com</a>
+                    </li>
+                    <li class="section-item contacts-item">Github
+                        <a href="https://github.com/Kseniya-Korolchuk" title="github" target="_blank">Kseniya-Krolchuk</a>
+                    </li>
+                    <li class="section-item contacts-item">Telegram: 
+                        <a href="https://t.me/udf_prs" title="telegram" target="_blank">@udf_prs</a>
+                    </li>
+                    <li class="section-item contacts-item">Discord: 
+                        <a href="https://discord.gg/xbGhku4q" title="discord" target="_blank">Redwood</a></li>
+                </ul>
+
+            </section>
+            <section class="section" id="Summary">
+                <h2 class="section-title">Summary</h2>
+                <p>By my first education I am an audio engineer. For the past ten years I've been working as a theater sound engineer, 
+                    but lately I felt that I was stuck and didn't have any more opportunities to develop in my field. 
+                    But I'm curious, I like learning new things and I like solving complex tasks, so in total it became the reason 
+                    I decided to switch to IT - here anyone will find something interesting for themselves and here will always be 
+                    a lot of opportunities for professional grows.
+                    My strengths are stress resistance, ability to work under pressure, quick reaction and the ability to handle
+                     unfamiliar situation. I'm sociable, good team-worker and fast learning.</p>
+            </section>
+            <section class="section" id="Skills">
+                <h2 class="section-title">Skills</h2>
+                <ul>
+                    <li class="section-item">HTML5, CSS3</li>
+                    <li class="section-item">JS basics</li>
+                    <li class="section-item">SQL basics</li>
+                    <li class="section-item">Git</li>
+                    <li class="section-item">Java core</li>
+                </ul>
+            </section>
+            <section class="section" id="Code">
+                <h2 class="section-title">Code</h2>
+<pre class="pre">
+function disemvowel(str) {
+    let newStr = str.match(/[^aeiou]/gi);
+    return newStr.join("");
+    }
+</pre>
+            </section>
+            <section class="section section-education" id="Education">
+                <h2 class="section-title">Education</h2>
+                <ul>
+                    <li class="section-item">BSAA - Belarusian State Academy of Arts, Film & TV faculty - <span>Audio engeneer</span></li>
+                    <li class="section-item">IT Academy
+                        <ul>
+                            <li class="section-item section-item-nested"><span>CS</span></li>
+                            <li class="section-item section-item-nested"><span>Basic WEB</span></li>
+                            <li class="section-item section-item-nested"><span>Java fundamentals</span></li>
+                            <li class="section-item section-item-nested"><span>Mobile development for android</span></li>
+                        </ul>
+                    </li>
+                    <li class="section-item">HTML Academy - <span>HTML & CSS</span></li>
+                    <li class="section-item">RS Schools - <span>Course «JavaScript/Front-end. Stage 0»</span></li>
+                </ul>
+            </section>
+            <section class="section section-english" id="English">
+                <h2 class="section-title">English</h2>
+                <p>B1 - Intermediate</p>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container footer-container">
+            <div>
+                2022
+                <a href="https://github.com/Kseniya-Korolchuk" title="github" class="nav-link">Kseniya-Korolchuk </a>
+            </div>
+            <div>
+                <a href="https://rs.school/js/" class="rss-logo"></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
