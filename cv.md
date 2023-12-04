@@ -45,5 +45,11 @@ function DNAStrand(dna){
 }
 ```
 ---
+## Education & Courses:
+* **RS School** Course «JavaScript/Front-end. Stage 0»
+* **RS School** Course «JavaScript/Front-end. Stage 1/2»
+* **RS School** Course «React»
+* **RS School** Course «Angular» (not completed)
+---
 ## English:
 * English - Intermediate/Upper-intermediate (according to the online test at www.efset.org)
